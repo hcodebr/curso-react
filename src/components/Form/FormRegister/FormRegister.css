@@ -1,0 +1,28 @@
+
+
+.container-register {
+    width: 50%;
+    min-height: 500px;
+    margin: 5% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #282c34;
+}
+.form-register {
+    width: 200px;
+}
+.form-register label {
+    font-size: 12px;
+    font-weight: normal;
+}
+.form-register input{
+    border: none;
+    border-bottom: solid 0.5px #eee;
+    background: none;
+    color: #eee;
+    margin-left: 1%;
+    outline: none;
+}
